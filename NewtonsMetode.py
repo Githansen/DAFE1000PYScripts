@@ -1,5 +1,7 @@
 import math
 import Derivert
+import pandas
+
 
 def newtonsukjentderivert(f, x):
     xgammel = x-1
